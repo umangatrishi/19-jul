@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int X;
+	cin>>X;
+	if(X+7>170)
+	std::cout <<"YeS"<< std::endl;
+	else
+	std::cout << "nO" << std::endl;
+
+}
