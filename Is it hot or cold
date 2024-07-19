@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t;
+	cin>>t;
+	while(t--){
+	    int C;
+	    cin>>C;
+	    if(20<C)
+	    std::cout << "hot" << std::endl;
+	    else
+	    std::cout << "cold" << std::endl;
+	}
+
+}
